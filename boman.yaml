@@ -1,0 +1,20 @@
+Auth:
+  #project_token: "dad57325-4514-4a18-acd9-47a8ce94aebd" #prof
+  #customer_token:  "a17845a1-056c-44c3-855f-9fd224de1d88"
+   project_token: "b54f293c-08f2-4d81-a39b-0e997aed76c2" #devapi
+   customer_token:  "5701949f-4512-4189-a1df-46783526dac9"
+
+   
+#SCA:
+ #  language: "js" 
+
+SAST:
+  language: "csharp"
+  #work_dir: "/home/boxuser/box/repo/django.nV/"
+
+
+# DAST:
+#   type: "WEB" ## API, dWEB, WEB-ADV
+#   URL: "http://demo.testfire.net" 
+
+# Secret_Scan: True
